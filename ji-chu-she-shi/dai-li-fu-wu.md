@@ -10,7 +10,7 @@
 代理服务器在请求服务时代表客户端运行，从而可能掩盖了对资源服务器的请求的真正来源.
 {% endhint %}
 
-![](.gitbook/assets/lark20200903204839.png)
+![](../.gitbook/assets/lark20200903204839.png)
 
 ### 代理服务的分类
 
@@ -18,13 +18,13 @@
 
 前向代理是面向Internet的代理，用于从各种来源检索数据，更加临近客户端。
 
-![](.gitbook/assets/800px-open_proxy_h2g2bob.svg.png)
+![](../.gitbook/assets/800px-open_proxy_h2g2bob.svg.png)
 
 反向代理通常是面向内部的代理，用作前端以控制和保护对专用网络上服务器的访问。反向代理（或代理）是代理服务器，在客户端看来，这是一台普通服务器。反向代理将请求转发到处理该请求的一台或多台普通服务器。来自代理服务器的响应就像直接来自原始服务器一样返回，使客户端不了解原始服务器。
 
 和正向代理不同，反向代理更加临近web服务器，仅服务于一组服务器。
 
-![](.gitbook/assets/800px-reverse_proxy_h2g2bob.svg.png)
+![](../.gitbook/assets/800px-reverse_proxy_h2g2bob.svg.png)
 
 反向代理的作用：
 
